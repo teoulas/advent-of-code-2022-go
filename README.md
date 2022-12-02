@@ -2,7 +2,7 @@
 
 Run it:
 ```shell
-go run dayX.go # where X is the day
+go run dayX/both.go # where X is the day
 # or
-./dayX.go
+./dayX/both.go
 ```
